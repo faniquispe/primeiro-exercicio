@@ -5,7 +5,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-
+kknojijii
 @Entity
 public class Carro  implements Serializable{
 
@@ -21,6 +21,8 @@ public class Carro  implements Serializable{
 	private String nome;
 	private String marca;
 	private String placa;
+	private string nomeCliente;
+	private int idade;
 	
 	eteste
 	public Carro() {
